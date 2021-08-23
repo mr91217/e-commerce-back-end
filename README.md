@@ -39,7 +39,10 @@ SO THAT my company can compete with other e-commerce companies
 ## Contributing
   ChunYu Chang
 ## Reference
-  
+  1.Routes 
+  https://github.com/jpd61/e-commerce-backend <br />
+  2.Class Moudles <br />
+  https://github.com/mr91217/just-tech-news <br />
 ## Questions
  Contact me<br />
 
